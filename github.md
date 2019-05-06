@@ -1,3 +1,8 @@
+---
+layout: post
+title: GitHub
+---
+
 # GitHub <!-- omit in toc -->
 
 #### Table of Contents
