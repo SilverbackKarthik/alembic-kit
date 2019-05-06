@@ -1,3 +1,8 @@
+---
+layout: post
+title: How to clone and access Unity Project from GitHub using SourceTree
+---
+
 # How to clone and access Unity Project from GitHub using SourceTree <!-- omit in toc -->
 
 #### Table of Contents
