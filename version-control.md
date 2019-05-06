@@ -1,3 +1,8 @@
+---
+layout: post
+title: Version Control
+---
+
 # Version Control <!-- omit in toc -->
 
 #### Table of Contents
